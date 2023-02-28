@@ -1,1 +1,1 @@
-# DChat-client
+# DCQChat-client
